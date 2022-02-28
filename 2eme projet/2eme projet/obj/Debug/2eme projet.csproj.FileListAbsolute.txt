@@ -1,0 +1,181 @@
+C:\Users\anass\source\repos\2eme projet\2eme projet\bin\Debug\2eme projet.exe.config
+C:\Users\anass\source\repos\2eme projet\2eme projet\bin\Debug\2eme projet.exe
+C:\Users\anass\source\repos\2eme projet\2eme projet\bin\Debug\2eme projet.pdb
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\2eme projet.csprojAssemblyReference.cache
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.connecter.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.chargement.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.Properties.Resources.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.GenerateResource.cache
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CoreCompileInputs.cache
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\2eme projet.pdb
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.créer.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.survette.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.tenu.resources
+C:\Users\anass\source\repos\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\2eme projet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.connecter.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.créer.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.chargement.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.Properties.Resources.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.survette.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.tenu.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.programe_match.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\2eme projet.exe.config
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\2eme projet.exe
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CopyComplete
+C:\Users\anass\Desktop\2eme projet\2eme projet\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.wait_form.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.tout_la_commande.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.arriéres_et_défenseurs.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.attaquants.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.gardiens_de_but.resources
+C:\Users\anass\Desktop\2eme projet\2eme projet\obj\Debug\_2eme_projet.milieux.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe.config
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.pdb
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.dll
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\WinFormAnimation.dll
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.xml
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.arriéres_et_défenseurs.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.attaquants.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.connecter.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.créer.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.chargement.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.gardiens_de_but.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.milieux.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.programe_match.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.Properties.Resources.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.survette.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tenu.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tout_la_commande.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.wait_form.resources
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CopyComplete
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.pdb
+C:\Users\pc\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.les_info_maroc.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe.config
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.arriéres_et_défenseurs.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.attaquants.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.connecter.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.créer.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.chargement.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.gardiens_de_but.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.les_info_maroc.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.milieux.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.programe_match.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.Properties.Resources.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.survette.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tenu.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tout_la_commande.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.wait_form.resources
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CopyComplete
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+C:\Users\anass\Desktop\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe.config
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.connecter.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.créer.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.chargement.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.programe_match.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.Properties.Resources.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.survette.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tenu.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tout_la_commande.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CopyComplete
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.messagebox.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.info_app.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.info_personnelle.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.deconnecter.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\Interop.WMPLib.dll
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.ResolveComReference.cache
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\Interop.WMPLib.dll
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.att_form.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\WinFormAnimation.xml
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.squad.resources
+C:\Users\anass\Desktop\projet c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.message_quiter.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe.config
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.dll
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\WinFormAnimation.dll
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\CircularProgressBar.xml
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\WinFormAnimation.xml
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\Interop.WMPLib.dll
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\Interop.WMPLib.dll
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.ResolveComReference.cache
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.att_form.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.connecter.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.créer.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.deconnecter.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.chargement.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.info_app.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.info_personnelle.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.message_quiter.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.messagebox.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.programe_match.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.Properties.Resources.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.squad.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.survette.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tenu.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.tout_la_commande.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.GenerateResource.cache
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CoreCompileInputs.cache
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.CopyComplete
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.pdb
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.welc_frm.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.autre2.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.exe.manifest
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\2eme projet.application
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.exe.manifest
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.application
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csprojAssemblyReference.cache
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\_2eme_projet.menu2.resources
+C:\Users\anass\Desktop\projets c#\2eme projet-1\2eme projet\2eme projet\bin\Debug\Guna.UI2.dll
+D:\anas\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.csproj.AssemblyReference.cache
+D:\anas\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.exe
+D:\anas\projets c#\2eme projet-1\2eme projet\2eme projet\obj\Debug\2eme projet.pdb

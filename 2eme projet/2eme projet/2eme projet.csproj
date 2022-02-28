@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4994CF3F-2B31-4F9C-9BBD-ADFB92286182}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_2eme_projet</RootNamespace>
+    <AssemblyName>2eme projet</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\anass\Desktop\store maroc\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>22</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3C23D70B5034E55BF34D2A0DA9F74EF1FE5FB838</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>2eme projet_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>terrain-de-football-en-perspective.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CircularProgressBar, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=1.0.1.7, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.7\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="att form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="att form.Designer.cs">
+      <DependentUpon>att form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="autre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autre.Designer.cs">
+      <DependentUpon>autre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="autre2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="autre2.Designer.cs">
+      <DependentUpon>autre2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="connecter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connecter.Designer.cs">
+      <DependentUpon>connecter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="créer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="créer.Designer.cs">
+      <DependentUpon>créer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deconnecter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deconnecter.Designer.cs">
+      <DependentUpon>deconnecter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="info app.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="info app.Designer.cs">
+      <DependentUpon>info app.cs</DependentUpon>
+    </Compile>
+    <Compile Include="info personnelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="info personnelle.Designer.cs">
+      <DependentUpon>info personnelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu.Designer.cs">
+      <DependentUpon>menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menu2.Designer.cs">
+      <DependentUpon>menu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="message quiter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="message quiter.Designer.cs">
+      <DependentUpon>message quiter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messagebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="messagebox.Designer.cs">
+      <DependentUpon>messagebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="programe match.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="programe match.Designer.cs">
+      <DependentUpon>programe match.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="squad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="squad.Designer.cs">
+      <DependentUpon>squad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="survette.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="survette.Designer.cs">
+      <DependentUpon>survette.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tenu.Designer.cs">
+      <DependentUpon>tenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tout la commande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tout la commande.Designer.cs">
+      <DependentUpon>tout la commande.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welc_frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welc_frm.Designer.cs">
+      <DependentUpon>welc_frm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="att form.resx">
+      <DependentUpon>att form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="autre.resx">
+      <DependentUpon>autre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="autre2.resx">
+      <DependentUpon>autre2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="connecter.resx">
+      <DependentUpon>connecter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="créer.resx">
+      <DependentUpon>créer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deconnecter.resx">
+      <DependentUpon>deconnecter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="info app.resx">
+      <DependentUpon>info app.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="info personnelle.resx">
+      <DependentUpon>info personnelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu.resx">
+      <DependentUpon>menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menu2.resx">
+      <DependentUpon>menu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="message quiter.resx">
+      <DependentUpon>message quiter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messagebox.resx">
+      <DependentUpon>messagebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="programe match.resx">
+      <DependentUpon>programe match.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="squad.resx">
+      <DependentUpon>squad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="survette.resx">
+      <DependentUpon>survette.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tenu.resx">
+      <DependentUpon>tenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tout la commande.resx">
+      <DependentUpon>tout la commande.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welc_frm.resx">
+      <DependentUpon>welc_frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grunge-du-maroc-vieux-rayé-drapeau-de-style-84521568.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-13 at 20.07.36 %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-13 at 20.07.36.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-13 at 20.07.35.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\210260g.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nike-mercurial-vapor-12-game-over-4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %284%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nike-mercurial-vapor-12-game-over-41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d0914b40-c7b9-4e45-bd61-5196d0a29a40.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\007674d7-116a-432f-81e4-93711345ecb2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2657ffbd-1964-4111-9493-b51f0fb46772.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e20c0171-3cd8-4805-8f8e-6bf231e5f055.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcb706df-8c29-4aae-b2b6-0d75fa2a93d4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f6a10d5b-aa00-405f-ab39-f06185583327.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a7caa119-8b26-4894-962c-9973b18eaa46.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cb534b9d-9d18-41cf-bb4b-b19a7dc65934.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f988f04a-397f-4ea6-b3fb-96d6411eb748.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f774d39a-b680-4c62-8007-316e4285ff48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210416_170018[1].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20210416_165948[1].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d04611a-7c68-47a1-95d2-72f3f6d6ec15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18915035-6102-421f-b703-6cf448569754.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3d04611a-7c68-47a1-95d2-72f3f6d6ec151.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a63c831d-ddee-4f81-ac95-c6883c57871a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a63c831d-ddee-4f81-ac95-c6883c57871a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a63c831d-ddee-4f81-ac95-c6883c57871a2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad33c8bb-65ff-4987-93fe-12068098160c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad33c8bb-65ff-4987-93fe-12068098160c1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad33c8bb-65ff-4987-93fe-12068098160c2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-14 at 21.54.11.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-14 at 21.54.111.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-14 at 21.54.10.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2021-04-14 at 21.58.09.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bfc1e68d-c639-4426-acf7-a5e1fe702ceb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22e113f3-f70a-4036-b7c7-999190666f95.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\84447316-1941-455b-8aaa-6cf0532f78c3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f5d3830d-f6f9-4370-b97d-3a233e00d385.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5cb4aad3-ac64-40d5-af27-9eb0e8ef4cdf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6432cca9-9b13-4564-ba02-557c222fadd8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\638bb305-c191-4681-afa4-9396f55b72dc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %288%293.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9d104d2-0931-4cc2-a63d-fa6d2bbab11b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9d104d2-0931-4cc2-a63d-fa6d2bbab11b1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0e3af68d-6301-4159-8b74-43a0abdd1669.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a0636a7b-4bca-4e17-802b-7330f3e5cfee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9af69de6-4b2c-49f4-8fcd-bcbc96750b20.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f774d39a-b680-4c62-8007-316e4285ff481.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cb534b9d-9d18-41cf-bb4b-b19a7dc659341.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f988f04a-397f-4ea6-b3fb-96d6411eb7481.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a7caa119-8b26-4894-962c-9973b18eaa461.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f6a10d5b-aa00-405f-ab39-f061855833271.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f774d39a-b680-4c62-8007-316e4285ff482.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f774d39a-b680-4c62-8007-316e4285ff483.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f774d39a-b680-4c62-8007-316e4285ff484.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cb534b9d-9d18-41cf-bb4b-b19a7dc659342.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f988f04a-397f-4ea6-b3fb-96d6411eb7482.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a7caa119-8b26-4894-962c-9973b18eaa462.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f6a10d5b-aa00-405f-ab39-f061855833272.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\127911185.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animated-check.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check02.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\392001500_EYES_EMOJI_400px.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\World-Cup-Balls_2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\65-655052_puma-logo-png-transparent-images-puma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-clipart-computer-icons-eye-hiding-people-logo-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-eye-icon-image_1338426.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-898295684-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping_cart_icon.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping_cart_icon.svg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1279111851.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progressbar-indeterminate.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\705d86d01a966ff8f2e1e0ed1c9c6bef_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\705d86d01a966ff8f2e1e0ed1c9c6bef_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\705d86d01a966ff8f2e1e0ed1c9c6bef_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %282%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé %282%293.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\compte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\téléchargé.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A_star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\idata_0597811_PERSONNAGES_gif-anime-foot-2-gratuit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images__2_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\210260g-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-green-geometric-polygon-background-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-green-geometric-polygon-background-vector1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-green-geometric-polygon-background-vector2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-green-geometric-polygon-background-vector3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elegant-green-geometric-polygon-background-vector4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3949337.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e8f8ff5e9edfb85d95dde093754e0728.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e8f8ff5e9edfb85d95dde093754e07281.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06a71f80a6da7e79d72f72090089a26e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e8f8ff5e9edfb85d95dde093754e07282.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06a71f80a6da7e79d72f72090089a26e1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39493371.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39493372.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9d104d2-0931-4cc2-a63d-fa6d2bbab11b-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0e3af68d-6301-4159-8b74-43a0abdd1669-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a0636a7b-4bca-4e17-802b-7330f3e5cfee-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9af69de6-4b2c-49f4-8fcd-bcbc96750b20-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e8f8ff5e9edfb85d95dde093754e07283.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4069aadfd0ba742f05dd274f2f068351.jpg" />
+    <None Include="Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc.png" />
+    <None Include="Resources\pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618.jpg" />
+    <None Include="Resources\25322644-26660870.jpg" />
+    <None Include="Resources\pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618-removebg-preview.png" />
+    <None Include="Resources\pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618-removebg-preview1.png" />
+    <None Include="Resources\thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background1.jpg" />
+    <None Include="Resources\thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background2.jpg" />
+    <None Include="Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc1.png" />
+    <None Include="Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc2.png" />
+    <None Include="Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc3.png" />
+    <None Include="Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc4.png" />
+    <None Include="Resources\e8f8ff5e9edfb85d95dde093754e07284.jpg" />
+    <None Include="Resources\1024px-Tramway_de_Québec__1897__-_Cercle_blanc.svg-removebg-preview.png" />
+    <None Include="Resources\cercle-noir_318-9051-removebg-preview.png" />
+    <None Include="Resources\red-icone-de-validation-coche-de-couleur-rouge-vector-illustration-vector-rc2hnx-removebg-preview.png" />
+    <None Include="Resources\png-clipart-computer-icons-eye-hiding-people-logo-thumbnail-removebg-preview.png" />
+    <None Include="Resources\pngtree-eye-icon-image_1338426-removebg-preview.png" />
+    <None Include="Resources\contact-us-graphic.jpg" />
+    <None Include="Resources\vector-red-business-card-contact-600w-1027537153.jpg" />
+    <None Include="Resources\80752890-website-contact-us-icons-on-brown-tags-over-grey-background-removebg-preview.png" />
+    <Content Include="terrain-de-football-en-perspective.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

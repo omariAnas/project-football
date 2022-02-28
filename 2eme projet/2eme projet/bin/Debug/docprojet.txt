@@ -1,0 +1,3 @@
+tenu blanc,300 DH,,Homme
+tenu rouge,250 DH,,Homme
+,,,

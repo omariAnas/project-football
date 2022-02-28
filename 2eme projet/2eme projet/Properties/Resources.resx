@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a63c831d-ddee-4f81-ac95-c6883c57871a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a63c831d-ddee-4f81-ac95-c6883c57871a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-13 at 20.07.36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-13 at 20.07.36.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f774d39a-b680-4c62-8007-316e4285ff48" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f774d39a-b680-4c62-8007-316e4285ff48.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="animated-check" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\animated-check.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eclaboussures-de-peinture-drapeau-du-lion-maroc4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="705d86d01a966ff8f2e1e0ed1c9c6bef_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\705d86d01a966ff8f2e1e0ed1c9c6bef_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="39493371" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\39493371.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elegant-green-geometric-polygon-background-vector1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elegant-green-geometric-polygon-background-vector1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f988f04a-397f-4ea6-b3fb-96d6411eb7481" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f988f04a-397f-4ea6-b3fb-96d6411eb7481.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="2657ffbd-1964-4111-9493-b51f0fb46772" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2657ffbd-1964-4111-9493-b51f0fb46772.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="istockphoto-898295684-170667a" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\istockphoto-898295684-170667a.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad33c8bb-65ff-4987-93fe-12068098160c2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad33c8bb-65ff-4987-93fe-12068098160c2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="705d86d01a966ff8f2e1e0ed1c9c6bef_icon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\705d86d01a966ff8f2e1e0ed1c9c6bef_icon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e8f8ff5e9edfb85d95dde093754e07284" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e8f8ff5e9edfb85d95dde093754e07284.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (5).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-13 at 20.07.36 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-13 at 20.07.36 (1).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f774d39a-b680-4c62-8007-316e4285ff483" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f774d39a-b680-4c62-8007-316e4285ff483.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (2)4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (2)3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (2)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (2)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="65-655052_puma-logo-png-transparent-images-puma" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\65-655052_puma-logo-png-transparent-images-puma.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="d0914b40-c7b9-4e45-bd61-5196d0a29a40" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\d0914b40-c7b9-4e45-bd61-5196d0a29a40.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cb534b9d-9d18-41cf-bb4b-b19a7dc659341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cb534b9d-9d18-41cf-bb4b-b19a7dc659341.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="grunge-du-maroc-vieux-rayé-drapeau-de-style-84521568" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\grunge-du-maroc-vieux-rayé-drapeau-de-style-84521568.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (8).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-14 at 21.54.10" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-14 at 21.54.10.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8f91401c-660a-4bad-9e61-d6e0c575b8e12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e12.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-computer-icons-eye-hiding-people-logo-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-computer-icons-eye-hiding-people-logo-thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="6432cca9-9b13-4564-ba02-557c222fadd8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\6432cca9-9b13-4564-ba02-557c222fadd8.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0e3af68d-6301-4159-8b74-43a0abdd1669" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0e3af68d-6301-4159-8b74-43a0abdd1669.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9af69de6-4b2c-49f4-8fcd-bcbc96750b20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9af69de6-4b2c-49f4-8fcd-bcbc96750b20.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="84447316-1941-455b-8aaa-6cf0532f78c3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\84447316-1941-455b-8aaa-6cf0532f78c3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="compte" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\compte.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f6a10d5b-aa00-405f-ab39-f06185583327" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f6a10d5b-aa00-405f-ab39-f06185583327.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad33c8bb-65ff-4987-93fe-12068098160c" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad33c8bb-65ff-4987-93fe-12068098160c.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a63c831d-ddee-4f81-ac95-c6883c57871a2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a63c831d-ddee-4f81-ac95-c6883c57871a2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e8f8ff5e9edfb85d95dde093754e0728" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e8f8ff5e9edfb85d95dde093754e0728.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eclaboussures-de-peinture-drapeau-du-lion-maroc3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8f91401c-660a-4bad-9e61-d6e0c575b8e11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e11.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f9d104d2-0931-4cc2-a63d-fa6d2bbab11b" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f9d104d2-0931-4cc2-a63d-fa6d2bbab11b.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f5d3830d-f6f9-4370-b97d-3a233e00d385" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f5d3830d-f6f9-4370-b97d-3a233e00d385.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="638bb305-c191-4681-afa4-9396f55b72dc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\638bb305-c191-4681-afa4-9396f55b72dc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="210260g-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\210260g-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="873ad6f2-0fca-43fa-89ef-79ea4fdc544f4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="5cb4aad3-ac64-40d5-af27-9eb0e8ef4cdf" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\5cb4aad3-ac64-40d5-af27-9eb0e8ef4cdf.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (8)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (8)2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a7caa119-8b26-4894-962c-9973b18eaa46" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a7caa119-8b26-4894-962c-9973b18eaa46.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shopping_cart_icon.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shopping_cart_icon.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a7caa119-8b26-4894-962c-9973b18eaa461" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a7caa119-8b26-4894-962c-9973b18eaa461.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-14 at 21.541" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-14 at 21.54.111.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8f91401c-660a-4bad-9e61-d6e0c575b8e1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="873ad6f2-0fca-43fa-89ef-79ea4fdc544f5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-eye-icon-image_1338426-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-eye-icon-image_1338426-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e8f8ff5e9edfb85d95dde093754e07283" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e8f8ff5e9edfb85d95dde093754e07283.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="check02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\check02.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f774d39a-b680-4c62-8007-316e4285ff484" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f774d39a-b680-4c62-8007-316e4285ff484.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="873ad6f2-0fca-43fa-89ef-79ea4fdc544f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cercle-noir_318-9051-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cercle-noir_318-9051-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eclaboussures-de-peinture-drapeau-du-lion-maroc1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-14 at 21.58.09" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-14 at 21.58.09.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="20210416_165948[1]" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\20210416_165948[1].png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\thumb2-morocco-national-football-team-4k-geometric-art-logo-red-abstract-background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a0636a7b-4bca-4e17-802b-7330f3e5cfee-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a0636a7b-4bca-4e17-802b-7330f3e5cfee-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a0636a7b-4bca-4e17-802b-7330f3e5cfee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a0636a7b-4bca-4e17-802b-7330f3e5cfee.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1024px-Tramway_de_Québec__1897__-_Cercle_blanc.svg-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1024px-Tramway_de_Québec__1897__-_Cercle_blanc.svg-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3d04611a-7c68-47a1-95d2-72f3f6d6ec151" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3d04611a-7c68-47a1-95d2-72f3f6d6ec151.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="A_star" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\A_star.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="8f91401c-660a-4bad-9e61-d6e0c575b8e13" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8f91401c-660a-4bad-9e61-d6e0c575b8e13.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (8)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (8)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc6.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="210260g" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\210260g.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elegant-green-geometric-polygon-background-vector3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elegant-green-geometric-polygon-background-vector3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elegant-green-geometric-polygon-background-vector2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elegant-green-geometric-polygon-background-vector2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arrow-down-512" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\arrow-down-512.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e8f8ff5e9edfb85d95dde093754e07282" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e8f8ff5e9edfb85d95dde093754e07282.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e20c0171-3cd8-4805-8f8e-6bf231e5f055" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e20c0171-3cd8-4805-8f8e-6bf231e5f055.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f774d39a-b680-4c62-8007-316e4285ff482" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f774d39a-b680-4c62-8007-316e4285ff482.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="873ad6f2-0fca-43fa-89ef-79ea4fdc544f3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="127911185" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\127911185.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images__1_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images__1_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f6a10d5b-aa00-405f-ab39-f061855833271" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f6a10d5b-aa00-405f-ab39-f061855833271.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eclaboussures-de-peinture-drapeau-du-lion-maroc" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ad33c8bb-65ff-4987-93fe-12068098160c1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ad33c8bb-65ff-4987-93fe-12068098160c1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (4).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f6a10d5b-aa00-405f-ab39-f061855833272" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f6a10d5b-aa00-405f-ab39-f061855833272.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3949337" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3949337.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idata_0597811_PERSONNAGES_gif-anime-foot-2-gratuit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\idata_0597811_PERSONNAGES_gif-anime-foot-2-gratuit.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="e8f8ff5e9edfb85d95dde093754e07281" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\e8f8ff5e9edfb85d95dde093754e07281.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="18915035-6102-421f-b703-6cf448569754" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\18915035-6102-421f-b703-6cf448569754.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unnamed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f988f04a-397f-4ea6-b3fb-96d6411eb748" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f988f04a-397f-4ea6-b3fb-96d6411eb748.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nike-mercurial-vapor-12-game-over-41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nike-mercurial-vapor-12-game-over-41.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bfc1e68d-c639-4426-acf7-a5e1fe702ceb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bfc1e68d-c639-4426-acf7-a5e1fe702ceb.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cb534b9d-9d18-41cf-bb4b-b19a7dc659342" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cb534b9d-9d18-41cf-bb4b-b19a7dc659342.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="red-icone-de-validation-coche-de-couleur-rouge-vector-illustration-vector-rc2hnx-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\red-icone-de-validation-coche-de-couleur-rouge-vector-illustration-vector-rc2hnx-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f9d104d2-0931-4cc2-a63d-fa6d2bbab11b-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f9d104d2-0931-4cc2-a63d-fa6d2bbab11b-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Shopping_cart_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Shopping_cart_icon.svg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elegant-green-geometric-polygon-background-vector4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elegant-green-geometric-polygon-background-vector4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-eye-icon-image_1338426" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-eye-icon-image_1338426.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (7)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (7).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="9af69de6-4b2c-49f4-8fcd-bcbc96750b20-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\9af69de6-4b2c-49f4-8fcd-bcbc96750b20-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vector-red-business-card-contact-600w-1027537153" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vector-red-business-card-contact-600w-1027537153.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eclaboussures-de-peinture-drapeau-du-lion-maroc2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\eclaboussures-de-peinture-drapeau-du-lion-maroc2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f9d104d2-0931-4cc2-a63d-fa6d2bbab11b1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f9d104d2-0931-4cc2-a63d-fa6d2bbab11b1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a7caa119-8b26-4894-962c-9973b18eaa462" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a7caa119-8b26-4894-962c-9973b18eaa462.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (8)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (8)3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="06a71f80a6da7e79d72f72090089a26e1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\06a71f80a6da7e79d72f72090089a26e1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="contact-us-graphic" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\contact-us-graphic.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="007674d7-116a-432f-81e4-93711345ecb2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\007674d7-116a-432f-81e4-93711345ecb2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="4069aadfd0ba742f05dd274f2f068351" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\4069aadfd0ba742f05dd274f2f068351.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="392001500_EYES_EMOJI_400px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\392001500_EYES_EMOJI_400px.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f988f04a-397f-4ea6-b3fb-96d6411eb7482" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f988f04a-397f-4ea6-b3fb-96d6411eb7482.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Info.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="06a71f80a6da7e79d72f72090089a26e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\06a71f80a6da7e79d72f72090089a26e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="39493372" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\39493372.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="progressbar-indeterminate" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\progressbar-indeterminate.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="0e3af68d-6301-4159-8b74-43a0abdd1669-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\0e3af68d-6301-4159-8b74-43a0abdd1669-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (4)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (4)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="873ad6f2-0fca-43fa-89ef-79ea4fdc544f1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-14 at 21.54.11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-14 at 21.54.11.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="22e113f3-f70a-4036-b7c7-999190666f95" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\22e113f3-f70a-4036-b7c7-999190666f95.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (2)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (2)2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadf6704-194d-4c55-a62c-2a4b1c6a04bc-removebg-preview2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="873ad6f2-0fca-43fa-89ef-79ea4fdc544f2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\873ad6f2-0fca-43fa-89ef-79ea4fdc544f2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="World-Cup-Balls_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\World-Cup-Balls_2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bcb706df-8c29-4aae-b2b6-0d75fa2a93d4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bcb706df-8c29-4aae-b2b6-0d75fa2a93d4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="25322644-26660870" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\25322644-26660870.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="f774d39a-b680-4c62-8007-316e4285ff481" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\f774d39a-b680-4c62-8007-316e4285ff481.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WhatsApp Image 2021-04-13 at 20.07.35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WhatsApp Image 2021-04-13 at 20.07.35.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="unnamed (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\unnamed (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1279111851" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1279111851.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\396-3965468_puma-logo-png-transparent-puma-logopng-images-pluspng-puma-logo-png-transparent.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (6)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (6).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cb534b9d-9d18-41cf-bb4b-b19a7dc65934" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cb534b9d-9d18-41cf-bb4b-b19a7dc65934.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-clipart-computer-icons-eye-hiding-people-logo-thumbnail-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\png-clipart-computer-icons-eye-hiding-people-logo-thumbnail-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images__2_-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images__2_-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a63c831d-ddee-4f81-ac95-c6883c57871a1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a63c831d-ddee-4f81-ac95-c6883c57871a1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elegant-green-geometric-polygon-background-vector" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elegant-green-geometric-polygon-background-vector.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="705d86d01a966ff8f2e1e0ed1c9c6bef_icon1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\705d86d01a966ff8f2e1e0ed1c9c6bef_icon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618-removebg-preview1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-marocco-flag-with-brush-strokes-style-for-national-day-png-image_2394618-removebg-preview1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nike-mercurial-vapor-12-game-over-4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nike-mercurial-vapor-12-game-over-4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="20210416_170018[1]" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\20210416_170018[1].png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="téléchargé (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\téléchargé (2).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3d04611a-7c68-47a1-95d2-72f3f6d6ec15" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3d04611a-7c68-47a1-95d2-72f3f6d6ec15.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="80752890-website-contact-us-icons-on-brown-tags-over-grey-background-removebg-preview" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\80752890-website-contact-us-icons-on-brown-tags-over-grey-background-removebg-preview.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
